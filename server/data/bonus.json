@@ -1,0 +1,26 @@
+{
+    "most-kills":{
+        "text": "If you have the most kill tokens at the end of the game, you gain 5 bonus points",
+        "points": 5
+    },
+    "most-male-heirs":{
+        "text": "If you have the most male heirs in play at the end of the game, you gain 2 bonus points",
+        "points": 3
+    },
+    "most-heirs":{
+        "text": "If you have the most heirs in play at the end of the game, you gain 2 bonus points",
+        "points": 2
+    },
+    "same-religion":{
+        "text": "If you have the same religion as Henry VII at the end of the game, you gain 2 bonus points",
+        "points": 2
+    },
+    "survived":{
+        "text": "If you are alive at the end of the game, you gain 2 bonus points",
+        "points": 2
+    },
+    "divorced":{
+        "text": "If you are divorced at the end of the game, you gain 1 bonus points",
+        "points": 1
+    }
+}

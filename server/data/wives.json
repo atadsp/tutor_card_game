@@ -1,0 +1,32 @@
+{
+    "aragon":{
+        "name": "Catherine of Aragon",
+        "ability": "heirless",
+        "religion": "catholic"
+    },
+    "boleyn":{
+        "name":"Anne Boleyn",
+        "ability": "reformer",
+        "religion": "protestant"
+    },
+    "seymour":{
+        "name":"Jane Seymour",
+        "ability": "child-birth-death",
+        "religion": "protestant"
+    },
+    "cleves":{
+        "name":"Anne of Cleaves",
+        "ability": "divorced",
+        "religion": "protestant"
+    },
+    "howard":{
+        "name":"Catherine Howard",
+        "ability": "executed",
+        "religion": "catholic"
+    },
+    "parr":{
+        "name":"Catherine Parr",
+        "survived":"survived",
+        "religion": "protestant"
+    }
+}

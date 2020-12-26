@@ -1,0 +1,130 @@
+{
+    "male-heir":{
+        "name": "Male Heir",
+        "type": "heir",
+        "effect": {
+            "points":2
+        },
+        "count":4
+    },
+    "female-heir":{
+        "name": "Female Heir",
+        "type": "heir",
+        "effect":{
+            "points":1
+        },
+        "count":2
+    },
+    "heir-edward":{
+        "name": "Henry, Duke of Cornwall",
+        "type": "heir",
+        "effect":{
+            "points": 4
+        },
+        "count": 1
+    },
+    "heir-henry":{
+        "name": "Henry, Duke of Cornwall",
+        "type": "heir",
+        "effect":{
+            "points": 4
+        },
+        "count": 1
+    },
+    "heir-mary":{
+        "name": "Queen Mary I",
+        "type": "heir",
+        "effect":{
+            "points": 3
+        },
+        "count": 1
+    },
+    "heir-elizbeth":{
+        "name": "Queen Elizabeth I",
+        "type": "heir",
+        "effect":{
+            "points": 3
+        },
+        "count": 1
+    },
+    "stillborn":{
+        "name": "Stillborn",
+        "type": "action",
+        "effect":{
+            "text": "Select an heir card on the field, that heir card is discarded."
+        },
+        "count":4
+    },
+    "miscarage":{
+        "name": "Miscarage",
+        "type": "action",
+        "effect": {
+            "text": "Select an heir card on the field, that card is discarded. Whoever played that card dies."
+        },
+        "count": 2
+    },
+    "faith-defender":{
+        "name": "Defender of the Faith",
+        "type": "action",
+        "effect": {
+            "text": "Change Henry the VIII's faith to Chatholic."
+        },
+        "count": 4
+    },
+    "reformer":{
+        "name": "Reformer of the Faith",
+        "type": "action",
+        "effect": {
+            "text": "Change Henry the VIII's faith to protestant."
+        },
+        "count": 4
+    },
+    "divine-intervention":{
+        "name": "Divine Intervention",
+        "type": "counter",
+        "effect": {
+            "text" : "Counter target action card."
+        },
+        "count": 4
+    },
+    "kings-favor":{
+        "name": "King's Favor",
+        "type": "action",
+        "effect": {
+            "text" : "If you are dead, you become divorced. If you are divorced you become alive."
+        },
+        "count": 4
+    },
+    "repreive":{
+        "name": "Repreive",
+        "type": "counter",
+        "effect": {
+            "text": "If you were to die, become divorced instead."
+        },
+        "count": 4
+    },
+    "assassination":{
+        "name": "Assassination",
+        "type": "action",
+        "effect": {
+            "text" : "Change the state of a player to dead."
+        },
+        "count": 4
+    },
+    "waiting-lady":{
+        "name": "Lady in Waiting",
+        "type": "action",
+        "effect": {
+            "text" : "Change the state of a player to divorced."
+        },
+        "count": 4
+    },
+    "off-with-her-head":{
+        "name": "Off with her head",
+        "type": "action",
+        "effect": {
+            "text" : "Change the state of a player to dead. This cannot be countered."
+        },
+        "count": 2
+    }
+}
