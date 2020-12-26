@@ -1,0 +1,11 @@
+{
+  "name": "tutor_card_game",
+  "version": "1.0.0",
+  "description": "A workshop for new card game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Beckman",
+  "license": "ISC"
+}
