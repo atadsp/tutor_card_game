@@ -24,7 +24,7 @@
         "count": 1
     },
     "heir-henry":{
-        "name": "Henry, Duke of Cornwall",
+        "name": "King Edward VI",
         "type": "heir",
         "effect":{
             "points": 4
@@ -80,7 +80,7 @@
         "count": 4
     },
     "divine-intervention":{
-        "name": "Divine Intervention",
+        "name": "Divine Intervention!",
         "type": "counter",
         "effect": {
             "text" : "Counter target action card."
@@ -104,7 +104,7 @@
         "count": 4
     },
     "assassination":{
-        "name": "Assassination",
+        "name": "Assassination!",
         "type": "action",
         "effect": {
             "text" : "Change the state of a player to dead."
@@ -120,11 +120,19 @@
         "count": 4
     },
     "off-with-her-head":{
-        "name": "Off with her head",
+        "name": "Off with her Head!",
         "type": "action",
         "effect": {
             "text" : "Change the state of a player to dead. This cannot be countered."
         },
         "count": 2
+    },
+    "illegitimate-birth":{
+        "name": "Illegitimate Birth!",
+        "type": "action",
+        "effect": {
+            "text" : "Take control of target Heir card in play."
+        },
+        "count": 4
     }
 }
