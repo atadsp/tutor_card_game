@@ -1,1 +1,6 @@
-#New File Who Dis?
+#New File Who Dis?\
+/node_modules
+.env
+# Ignores compiled TypeScript files
+/**/*.map
+/**/*.js
